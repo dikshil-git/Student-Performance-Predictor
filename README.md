@@ -36,7 +36,7 @@ It uses a simple Machine Learning model (Linear Regression).
 
 ## 📈 Output
 The model predicts student performance based on input features.
-
+Updated Project details
 ---
 
 ## 🚀 Future Improvements
